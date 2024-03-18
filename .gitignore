@@ -4,3 +4,5 @@ results_2M_train.csv
 run_tests
 controlnet
 __pycache__
+dataset/*
+pre_trained_svd
